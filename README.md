@@ -1,9 +1,7 @@
 
-
-
 # UCU Campus Lost & Found
 
-A responsive web application for reporting, searching and reclaiming lost items on the UCU campus.
+A Responsive web application for reporting, searching and reclaiming lost items on the UCU campus.
 Built for **CSC1202 – Web and Mobile Applications Development** (Advent 2026).
 
 - **Students** report lost or found items, search listings, submit private ownership claims, and track their own reports and claims.
@@ -126,7 +124,7 @@ It is already listed in `.gitignore`.
    ADMIN_PASSWORD=a-unique-password-of-12-or-more-characters
    ```
 
-| Variable         | What it is                                                             |
+| Variable         | What  is this                                                            |
 |------------------|------------------------------------------------------------------------|
 | `PORT`           | Port the backend listens on (default `5000`).                          |
 | `DB_HOST`        | MySQL host (usually `localhost`).                                      |
